@@ -3,11 +3,12 @@ class: center, middle
 
 <img src="images/escience.png" width=350>
 
-# TITLE
+# Why I teach Software Carpentry
+### And why you might too
 ## Ariel Rokem
 ### The University of Washington eScience Institute
 
-<small>Follow along at: <a href="https://arokem.github.io/talk-template">https://arokem.github.io/talk-template</small>
+<small>Follow along at: <a href="https://arokem.github.io/2016-12-06-why-swc">https://arokem.github.io/2016-12-06-why-swc</small>
 
 ---
 
@@ -18,17 +19,27 @@ layout: true
 
 ---
 
-# Slide title
+# What is Software Carpentry
 
 --
 
-- Bullet 1
+- "Since 1998, Software Carpentry has been teaching researchers in science, engineering, medicine, and related disciplines the computing skills they need to get more done in less time and with less pain."
 
 --
 
-- Bullet 2
+- Volunteer instructors.
 
----
+--
+
+- Democratically governed non-profit organization
+
+--
+
+- All the materials are freely reusable.
+
+--
+
+- Lessons are community developed.
 
 ---
 class: center
