@@ -1,6 +1,8 @@
-### Template for talks
+### Why I teach Software Carpentry
 
-This template is provided under the [Creative Commons CC-BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
+And why you might too.
+
+This talk is provided under the [Creative Commons CC-BY](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 
 ### Remark.js LICENSE
