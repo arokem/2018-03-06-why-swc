@@ -194,6 +194,11 @@ What it entails:
 - Learn some useful things about teaching?
 
 ---
+class: center, middle
+
+## https://tinyurl.com/uwescience-ttt-may-2018
+
+---
 
 
 class: center
