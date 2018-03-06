@@ -3,7 +3,7 @@ class: center, middle
 
 <img src="images/escience.png" width=350>
 
-# Why I teach Software Carpentry
+# Why I teach Carpentries workshops
 ### And why you might too
 ## Ariel Rokem
 ### The University of Washington eScience Institute
@@ -17,43 +17,35 @@ layout: true
 <div style="position: absolute; left: 650px; top: 370px;">
 <image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
 
----
-
-### Who am I?
---
-
-<image src="images/huji-logo.png" height=100px> I am originally from West Jerusalem, Israel
-
-???
-I come from West Jerusalem, in Israel. In college, at the Hebrew University, I studied Biology and Psychology. This education provided a basis for my interest in interdisciplinary work and for graduate school...
---
-
-<image src="images/berkeley-logo.png" height=100px> Ph.D. In neuroscience
-
-???
-...I came to the United States, and studied, at the University of California, Berkeley
---
-
-<image src="images/stanford-logo.png" height=100px> Research experience in computational neuroimaging
-
-???
-After graduate school, I spent a few years conducting research in computational neuroimaging, as a post-doc at Stanford.
---
-
- <image src="images/scipy-logo.png" height=100px> <image src="images/nipy-logo.png" height=100px> Open source software development
-
-???
-In graduate school, I started developing open-source software for computational neuroimaging, and became part of a community called "NIPY" (or neuroimaging in Python), which uses the Python programming language to develop open-source tools for analysis of data from human neuroimaging.
 
 ---
 
-# What is Software Carpentry
+# What are the Carpentries?
 
 --
 
 - "Since 1998, Software Carpentry has been teaching researchers in science, engineering, medicine, and related disciplines the computing skills they need to get more done in less time and with less pain."
 
 --
+
+Data Carpentry: a focus on data management and data analysis, rather than software engineering
+
+--
+
+Library Carpentry 
+
+--
+
+etc.
+
+--
+
+Since January 2018, one organization called "The Carpentries"
+
+---
+
+# The basics
+
 
 - Volunteer instructors.
 
@@ -145,15 +137,13 @@ If you have never attended a  SWC workshop, come join one as a helper!
 
 --
 
-**January 9th - 12th**
+**April 16th - 19th**
+
+http://pad.software-carpentry.org/swc-teaching-uw
 
 --
 
-If you've helped, come and teach!
-
---
-
-**March 27th-28th**
+If you've already helped, come and teach!
 
 --
 
@@ -163,15 +153,17 @@ http://lists.software-carpentry.org/
 
 ---
 
-## Do you want to get certified as a SWC instructor?
+## Do you want to get certified as a Carpentries instructor?
 
 --
 
 What it entails:
 
-- 2-day Instructor training workshop (some time in Spring 2017?)
+- 2-day Instructor training workshop 
 
-- A couple of small follow-up assignments
+- May 21st-22nd
+
+- A couple of follow-up assignments
 
 --
 
